@@ -29,7 +29,7 @@ function getIndividualFriend(req, res) {
 }
 
 function getFriends(req, res) {
-  res.json(model);
+   res.json(model);
 }
 
 module.exports = {
